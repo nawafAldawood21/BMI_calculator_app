@@ -8,7 +8,7 @@ I am going to make a Body Mass Index Calculator inspired by the beautiful design
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## Newthings I used 
+## New things in Dart and Flutter I used to build the app👇🏻:
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.
